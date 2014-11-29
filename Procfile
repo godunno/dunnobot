@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hipchat --name Dunnobot
+web: bin/hubot --adapter flowdock --name Dunnobot
